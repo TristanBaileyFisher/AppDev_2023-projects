@@ -1,0 +1,8 @@
+C:\Users\trist\OneDrive\Desktop\Input_output\Input_output\obj\Debug\Input_output.csproj.AssemblyReference.cache
+C:\Users\trist\OneDrive\Desktop\Input_output\Input_output\obj\Debug\Input_output.csproj.SuggestedBindingRedirects.cache
+C:\Users\trist\OneDrive\Desktop\Input_output\Input_output\obj\Debug\Input_output.csproj.CoreCompileInputs.cache
+C:\Users\trist\OneDrive\Desktop\Input_output\Input_output\bin\Debug\Input_output.exe.config
+C:\Users\trist\OneDrive\Desktop\Input_output\Input_output\bin\Debug\Input_output.exe
+C:\Users\trist\OneDrive\Desktop\Input_output\Input_output\bin\Debug\Input_output.pdb
+C:\Users\trist\OneDrive\Desktop\Input_output\Input_output\obj\Debug\Input_output.exe
+C:\Users\trist\OneDrive\Desktop\Input_output\Input_output\obj\Debug\Input_output.pdb
